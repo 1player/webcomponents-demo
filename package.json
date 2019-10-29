@@ -1,0 +1,15 @@
+{
+  "name": "components-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "hybrids": "^4.0.2",
+    "lit-element": "^2.2.1",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4"
+  }
+}
